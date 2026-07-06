@@ -1,0 +1,6 @@
+{
+  "name": "BugProctect Pro",
+  "description": "Premium pest control services for residential, commercial, and industrial properties in Johannesburg, Pretoria, and surrounding Gauteng areas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
