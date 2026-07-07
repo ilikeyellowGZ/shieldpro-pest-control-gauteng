@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="BugProctect Pro logo">
+  <rect width="64" height="64" rx="16" fill="#0B3D2E"/>
+  <path d="M32 6 51 13.5v15.4c0 12.9-7.3 22.8-19 28.9C20.3 51.7 13 41.8 13 28.9V13.5L32 6Z" fill="#F8F5EF"/>
+  <path d="M32 10.7 46.7 16.5v12.1c0 10-5.5 17.9-14.7 23.1-9.2-5.2-14.7-13.1-14.7-23.1V16.5L32 10.7Z" fill="#0B3D2E" opacity="0.96"/>
+  <path d="M32 17.8c3.9 0 7.1 3.2 7.1 7.1v2.8h1.7c3.1 0 5.7 2.5 5.7 5.7v5.2h-5.9c-.6 5.1-4.2 8.8-8.6 8.8s-8-3.7-8.6-8.8h-5.9v-5.2c0-3.1 2.5-5.7 5.7-5.7h1.7v-2.8c0-3.9 3.2-7.1 7.1-7.1Z" fill="#F8F5EF"/>
+  <path d="M28.6 25.1c0-1.9 1.5-3.4 3.4-3.4s3.4 1.5 3.4 3.4v2.6h-6.8v-2.6Z" fill="#C9A646"/>
+  <path d="M27.9 34.4h8.2M32 30.7v13.1M20.3 33.7h5.1M38.6 33.7h5.1" fill="none" stroke="#0B3D2E" stroke-width="2.8" stroke-linecap="round"/>
+  <path d="m25.6 15.9 3.1 3.1M38.4 15.9 35.3 19" fill="none" stroke="#F8F5EF" stroke-width="3.2" stroke-linecap="round"/>
+</svg>
